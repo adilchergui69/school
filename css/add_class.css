@@ -1,0 +1,11 @@
+select {
+    overflow: auto;
+  }
+  
+  .panel-body {
+    padding: 0;
+  }
+  
+  .form-control {
+    border: none;
+  }

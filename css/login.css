@@ -1,0 +1,16 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.form{
+    border-radius: 25px !important;
+    background: linear-gradient(0deg, #f3b947 0%, #fde172 100%);
+}
+.form .checkbox{
+    margin-top: 20PX;
+    text-align: initial !important;
+}
+
+.password{
+    margin-top: 10px;
+}
